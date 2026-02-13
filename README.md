@@ -17,4 +17,5 @@ The objective is to predict passenger survival using machine learning techniques
 - Jupyter Notebook
 
 ### Note
-This project was developed and executed on Kaggle and uploaded to GitHub for documentation and version control.
+This project was developed and executed on Kaggle and uploaded to GitHub for documentation and version control .
+This project is currently under active development and will continue to evolve with improvements, experiments, and additional features over time.
